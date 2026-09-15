@@ -26,7 +26,9 @@ A machine learning and deep learning project for predicting **football match out
 
 The **Transformer** achieved the best overall validation performance, while XGBoost remained highly competitive.
 
-Pipeline
+## Pipeline
+
+```text
 Raw Match Data
        │
        ▼
@@ -49,3 +51,4 @@ Tabular Feature Engineering  Sequential Feature Construction
                                        │
                                        ▼
                               Model Comparison
+```
